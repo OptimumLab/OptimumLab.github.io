@@ -6,7 +6,7 @@ title: Optimum Lab
 <table>
   <tr>
     <td>
-      <img src="assets/images/logo.png" alt="Optimum Lab Logo" width="150">
+      <img src="assets/images/Logo Optimum Lab - Polytechnique Montréal.png" alt="Optimum Lab Logo" width="150">
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1>Optimum Lab</h1>
