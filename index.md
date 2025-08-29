@@ -1,6 +1,19 @@
-# Optimum Lab  
+---
+title: Optimum Lab
+---
 
-Welcome to **Optimum Lab** – a research group dedicated to advancing methods in numerical optimization, surrogate modelling, uncertainty quantification, and decision-making.  
+<!-- Logo on the left with lab name -->
+<table>
+  <tr>
+    <td>
+      <img src="assets/images/logo.png" alt="Optimum Lab Logo" width="150">
+    </td>
+    <td style="vertical-align: middle; padding-left: 15px;">
+      <h1>Optimum Lab</h1>
+      <p>Advancing research in numerical optimization, surrogate modeling, and data-driven decision support.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
