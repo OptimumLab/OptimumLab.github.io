@@ -27,11 +27,11 @@ Our research covers:
 - Machine learning
 - Numerical linear algebra 
 - Data-driven decision support
-- Applications: Aircraft design, Clamit change, Transportation systems, Seismic imaging, ...
+- Applications: Aircraft design, climate change, transportation systems, seismic imaging, and more
 
 ---
 
-## 👥 Current team members  
+## 👥 Current Team Members  
 - **Prof. Youssef Diouane** – Lab Director  
 
 ---
@@ -42,7 +42,7 @@ Our research covers:
 ---
 
 ## 🌐 Contact  
-📧 [youssef.diouane@polymtl.ca]  
+📧 [youssef.diouane@polymtl.ca](mailto:youssef.diouane@polymtl.ca)  
 📍 Polytechnique Montréal  
 
 ---
